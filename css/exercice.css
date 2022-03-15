@@ -19,10 +19,13 @@
 .exercice-justify-3 .container {
   display: flex;
   justify-content: space-around;
-  flex-direction: row;
+  flex-direction: row-reverse;
 }
 /* 5. exercice-align-1 */
-
+.exercice-align-1 .container {
+  display: flex;
+  align-items: end;
+}
 /* 6. exercice-align-2 */
 
 /* 7. exercice-align-3 */
