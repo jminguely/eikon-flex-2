@@ -4,9 +4,20 @@
 }
 
 /* 2. exercice-justify-1 */
+.exercice-justify-1 .container {
+  display: flex;
+  flex-direction: flex-end;
+  justify-content: flex-end
+}
 
 
 /* 3. exercice-justify-2 */
+.justify-content-2  .container {
+  display: flex;
+  flex-direction: center;
+  justify-content: space-between;
+  align-items: center;
+}
 
 
 /* 4. exercice-justify-3 */
