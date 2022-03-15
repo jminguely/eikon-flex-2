@@ -23,18 +23,39 @@
   justify-content: space-between;
   justify-content: space-around;
 }
-
-
 /* 5. exercice-align-1 */
+.exercice-align-1 .container {
+  display: flex;
+  align-items: flex-start;
+  
+
+}
+
+  
 
 
 /* 6. exercice-align-2 */
+.exercice-align-2 .container {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: row-reverse;
+  justify-content: ;
+}
 
 
 /* 7. exercice-align-3 */
-
+.exercice-align-3 .container {
+  display: flex;
+}
 
 /* 8. exercice-all-1 */
+.exercice-all-1 .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  justify-content: baseline;
+  align-items: center;
+}
 
 
 /* 9. exercice-all-2 */
