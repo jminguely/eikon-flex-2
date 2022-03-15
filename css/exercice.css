@@ -31,7 +31,13 @@
 }
 
 /* 6. exercice-align-2 */
+.exercice-align-2 .container {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row-reverse;
 
+
+}
 
 /* 7. exercice-align-3 */
 
