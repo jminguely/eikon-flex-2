@@ -27,16 +27,21 @@
 
 /* 5. exercice-align-1 */
 .exercice-align-1 .container {
-display: flex;
-flex-direction: row;
-align-items:flex-end;
+  display: flex;
+  flex-direction: row;
+  align-items:flex-end;
 
 }
 
 
 
 /* 6. exercice-align-2 */
-
+.exercice-align-2 .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items:center;
+}
 
 /* 7. exercice-align-3 */
 
