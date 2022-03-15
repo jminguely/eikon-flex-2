@@ -14,12 +14,16 @@
 /* 3. exercice-justify-2 */
 .exercice-justify-2 .container {
   display :flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
   justify-content: center;
 }
 
 /* 4. exercice-justify-3 */
-
+.exercice-justify-3 .container {
+  display : flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
 
 /* 5. exercice-align-1 */
 
