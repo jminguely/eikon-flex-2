@@ -4,25 +4,21 @@
 }
 
 /* 2. exercice-justify-1 */
-
+.exercice-justify-1 .container {
+  display: flex;
+  justify-content: right;
+}
 
 /* 3. exercice-justify-2 */
 
-
 /* 4. exercice-justify-3 */
-
 
 /* 5. exercice-align-1 */
 
-
 /* 6. exercice-align-2 */
-
 
 /* 7. exercice-align-3 */
 
-
 /* 8. exercice-all-1 */
 
-
 /* 9. exercice-all-2 */
-
