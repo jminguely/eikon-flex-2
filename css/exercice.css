@@ -35,8 +35,7 @@
   display: flex;
   justify-content: flex-start;
   flex-direction: row-reverse;
-
-
+  align-items: center;
 }
 
 /* 7. exercice-align-3 */
