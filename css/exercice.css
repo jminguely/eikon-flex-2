@@ -28,19 +28,15 @@
   display: flex;
   flex-direction:row;
   align-items:flex-end;
-  
-
 }
 
   
-
-
 /* 6. exercice-align-2 */
 .exercice-align-2 .container {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
+  justify-content: end;
   flex-direction: row-reverse;
-  justify-content: ;
 }
 
 
