@@ -16,7 +16,11 @@
   flex-direction: column;
 }
 /* 4. exercice-justify-3 */
-
+.exercice-justify-3 .container {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
 /* 5. exercice-align-1 */
 
 /* 6. exercice-align-2 */
