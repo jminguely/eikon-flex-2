@@ -4,7 +4,9 @@
 }
 
 /* 2. exercice-justify-1 */
-
+.exercice-flex .container {
+  display: flex;
+}
 
 /* 3. exercice-justify-2 */
 
