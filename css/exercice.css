@@ -1,6 +1,7 @@
 /* 1. exercice-flex */
 .exercice-flex .container {
   display: flex;
+  justify-content: flex-start;
 }
 
 /* 2. exercice-justify-1 */
