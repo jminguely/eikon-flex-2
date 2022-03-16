@@ -18,26 +18,30 @@
 
 /* 4. exercice-justify-3 */
 .exercice-justify-3 .container {
-display: flex;
-flex-direction: row-reverse;
-justify-content: space-around;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
 }
 
 /* 5. exercice-align-1 */
 .exercice-align-1 .container {
-display: flex;
-align-items: flex-end;
+  display: flex;
+  align-items: flex-end;
 }
 
 /* 6. exercice-align-2 */
 .exercice-align-2 .container {
-display: flex;
-align-items: center;
-flex-direction: row-reverse;
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
 }
 
 /* 7. exercice-align-3 */
-
+.exercice-align-3 .container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
 
 /* 8. exercice-all-1 */
 
