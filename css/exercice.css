@@ -15,6 +15,12 @@
 
 /* 3. exercice-justify-2 */
 
+.exercice-justify-2 .container-big {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 
 /* 4. exercice-justify-3 */
 
