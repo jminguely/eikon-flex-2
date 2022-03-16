@@ -10,8 +10,11 @@
 }
 
 /* 3. exercice-justify-2 */
-.exercicejustify-2 {
-  background-color: red;
+.exercice-justify-2 .container-big{
+  /* background-color: red; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 /* 4. exercice-justify-3 */
