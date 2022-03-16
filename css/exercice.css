@@ -20,17 +20,21 @@ justify-content:flex-end;
 .exercice-justify-3 .container{
   display: flex;
   justify-content: space-around;
-  flex-direction: row;
+  flex-direction: row-reverse;
   }
 
 /* 5. exercice-align-1 */
 .exercice-align-1 .container{
   display: flex;
-  align-items:flex-end
+  align-items:flex-end;
   }
 
 /* 6. exercice-align-2 */
-
+.exercice-align-2 .container{
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  }
 
 /* 7. exercice-align-3 */
 
