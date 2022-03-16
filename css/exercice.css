@@ -8,14 +8,13 @@
    display: flex;
   flex-direction: row;
   justify-content: flex-end;
-  background-color: black;
 }
-
-
- 
-
 /* 3. exercice-justify-2 */
-
+.exercice-justify-2 .container-big {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 
 /* 4. exercice-justify-3 */
 
