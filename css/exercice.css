@@ -4,10 +4,15 @@
 }
 
 /* 2. exercice-justify-1 */
-
+.exercice-justify-1 .container{
+  display: flex;
+  justify-content: flex-end;
+}
 
 /* 3. exercice-justify-2 */
-
+.exercicejustify-2 {
+  background-color: red;
+}
 
 /* 4. exercice-justify-3 */
 
