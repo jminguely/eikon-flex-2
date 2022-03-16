@@ -4,25 +4,59 @@
 }
 
 /* 2. exercice-justify-1 */
-
+.exercice-justify-1 .container {
+  display: flex;
+  justify-content: flex-end;
+}
 
 /* 3. exercice-justify-2 */
-
+.exercice-justify-2 .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 
 /* 4. exercice-justify-3 */
-
+.exercice-justify-3 .container {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+}
 
 /* 5. exercice-align-1 */
-
+.exercice-align-1 .container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
 
 /* 6. exercice-align-2 */
-
+.exercice-align-2 .container {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
 
 /* 7. exercice-align-3 */
-
+.exercice-align-3 .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 /* 8. exercice-all-1 */
-
+.exercice-all-1 .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+}
 
 /* 9. exercice-all-2 */
-
+.exercice-all-2 .container {
+  display: flex;
+  align-items: center;
+  flex-direction: column-reverse;
+  justify-content: center;
+}
