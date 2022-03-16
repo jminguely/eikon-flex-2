@@ -46,6 +46,10 @@
   align-items: center;
   justify-content: space-around;
 }
-
 /* 9. exercice-all-2 */
-
+.exercice-all-2 .container-big {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+}
