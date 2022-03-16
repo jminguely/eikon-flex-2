@@ -1,9 +1,16 @@
 /* 1. exercice-flex */
+
 .exercice-flex .container {
-  display: flex;
+    display: flex;
 }
 
+
 /* 2. exercice-justify-1 */
+
+.exercice-justify-1 .container {
+    display: flex;
+    justify-content: flex-end;
+}
 
 
 /* 3. exercice-justify-2 */
@@ -25,4 +32,3 @@
 
 
 /* 9. exercice-all-2 */
-
