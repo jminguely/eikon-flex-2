@@ -23,3 +23,11 @@
   flex-direction: row-reverse;
   justify-content: space-around; 
 }
+
+/* 5. exercice-align-1 */
+.exercice-align-1 .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
