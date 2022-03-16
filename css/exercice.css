@@ -22,7 +22,6 @@
   display: flex;
   flex-direction: row-reverse;
   justify-content: space-around;
-  justify-items: flex-start;
 }
 
 /* 5. exercice-align-1 */
